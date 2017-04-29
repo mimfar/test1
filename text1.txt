@@ -1,1 +1,2 @@
 This is the 1st file.
+Adding a scone line to text1.txt to check with the git log p
