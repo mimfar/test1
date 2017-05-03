@@ -1,2 +1,2 @@
-Third text file.
+Third text file (3).
 This file is the third file. 
